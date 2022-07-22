@@ -2,15 +2,12 @@
 
 
 
-  let chances = [10, 20, 30, 8, 9, 11, 12, 13, 14, 15];
-  let map1 = chances.map(x => x * 3);
+  
   function tripleTheChances(chances) {
+    chances = [10, 20, 30];
+    let map1 = chances.map(x => x * 3);
   
-  return map1;
-  
-
-  
-  
+    return map1;
   }
 console.log(tripleTheChances());
   
