@@ -1,4 +1,4 @@
-# Exemplos e exercícios com javascript
+# Exercícios com javascript
+### Alguns exercícios que desenvolvi com o estudo de javascript.
 ![codar](codar.jpg)
-- **GITHUB** >>> [Celso Tavares](https://github.com/CelsoTavares) 
-- **LINKEDIN** - [Celso Tavares](linkedin.com/in/celsotavaresjunior) 
+
