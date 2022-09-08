@@ -1,4 +1,4 @@
-# Exercícios com javascript
+# Exercícios Com Javascript
 * ### Sobre
     #### Exercícios que desenvolvi com o estudo de javascript.
 ![codar](codar.jpg)
