@@ -1,9 +1,9 @@
 # Exercícios Com Javascript
-* ### Sobre
+* ## Sobre
     #### Exercícios que desenvolvi com o estudo de javascript.
 ![codar](codar.jpg)
-* ### Tecnologias
+* ## Tecnologias
     #### Javascript
-* ### Autor
+* ## Autor
     #### *Celso Tavares*
 #####      Acesse também meu [Linkedin](https://www.linkedin.com/in/celsotavaresjunior/)
