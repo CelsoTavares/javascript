@@ -15,4 +15,4 @@ function calculadoraAdicaoSubtracao(primeiroNumero, segundoNumero, operacao) {
     }
 
   }
-  console.log(calculadoraAdicaoSubtracao(8, 2, '-'));
+  console.log(calculadoraAdicaoSubtracao(8, 2, '+'));

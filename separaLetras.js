@@ -1,4 +1,5 @@
 
+
 function qualquer(palavra) {
 
   for (let index in palavra) {

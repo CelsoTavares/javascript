@@ -1,6 +1,6 @@
 let priminhos = [];
 function numerosPrimos(numero) {
-   
+                    
     for (let n = 2; n <= numero; n++) {
     let primo = true;
     
@@ -18,5 +18,6 @@ function numerosPrimos(numero) {
     }    
     
 }
-numerosPrimos(10); 
+numerosPrimos(17); 
+
 console.log(priminhos);

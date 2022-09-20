@@ -3,6 +3,7 @@ function tripleTheChances(chances) {
 let soma = 0;
 for (let index = 0; index < chances.length; index = index +1){
     soma = soma + chances[index];
+    console.log(soma)
 }
 let mult = soma * 3;
 return mult;
