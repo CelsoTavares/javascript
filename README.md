@@ -299,13 +299,4 @@ region		MouseEvent <br>
 ***view***	Returns a reference to the Window object where the event occurred	UiEvent
 
 
-
-
-
-
-
-
-
-
-
 #####      Acesse também meu [Linkedin](https://www.linkedin.com/in/celsotavaresjunior/)
