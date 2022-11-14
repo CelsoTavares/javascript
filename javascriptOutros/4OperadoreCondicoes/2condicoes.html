@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de nacionalidade</title>
+    <h1>De que país você é?</h1>
+    <span><label for="texto">Digite seu país:</label><input type="text" id="texto">
+    <input type="button" value="Verificar" onclick ='selecionar()'/>
+    <div id="res">
+    </div>
+    <script>
+        function selecionar() {
+        var A = document.querySelector('input#texto');
+        var a = A.value;
+        var res = document.getElementById('res');
+        res.innerHTML = `Seu país é ${a}.<br/>`;
+        res.innerHTML += `Seja bem vindo.<br/>`;
+        
+        if (a == "Brasil") {
+        res.innerHTML += `Você é brasileiro(a).`
+            
+        } else {
+        res.innerHTML += `Você é estrangeiro(a).`
+        }
+    }  
+    </script>
+</head>
+<body>
+</body>
+</html>
+    
+
+            
+        
+
+    
